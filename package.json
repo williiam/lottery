@@ -1,0 +1,10 @@
+{
+  "name": "lottery",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.1",
+    "ethers": "^6.0.8"
+  },
+  "devDependencies": {
+    "ganache-cli": "^6.12.2"
+  }
+}
